@@ -2,15 +2,13 @@
 
 using namespace std;
 float sum(float a,float b){
-    cout<<"float"<<endl;
- return 0;
+ return a+b;
 }
 int sum(int a,int b){
-    cout<<"oye"<<endl;
     return a+b;
 }
 int main()
-{https://www.onlinegdb.com/online_c_compiler#tab-stdin
+{h
     int i,j,e;
     float k,l,f;
     cin>>i>>j;
