@@ -30,7 +30,7 @@ class derived:private Base
 public:
   Base::j;
   Base::seti;
-  Base::geti;
+  Base::geti; 
   //base::i;
   int a;
 };
